@@ -10,5 +10,7 @@ music = {
     "despacito": "https://youtu.be/kJQP7kiw5Fk?si=lw1JPZV7P3Cwvj_O",
     "espresso": "https://youtu.be/eVli-tstM5E?si=JxlQ5eCXJU63H1gC",
     "infinity": "https://youtu.be/PWqEPKduGm8?si=TAKOuE5bpfLPupED",
-    "starboy": "https://youtu.be/34Na4j8AVgA?si=e2b3k7RyRRsUBIVz"
+    "starboy": "https://youtu.be/34Na4j8AVgA?si=e2b3k7RyRRsUBIVz",
+    "famous": "https://youtu.be/-FP2Cmc7zj4?si=9rjwusu4TXFdHV-U",
+    "million": "https://youtu.be/Oocst6d2scU?si=1fiWexMlX3SnfD1n"
 }
